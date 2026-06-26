@@ -27,13 +27,13 @@ Multixi est un outil pensé pour les joueurs **multicompte** sur Dofus. Il réun
 <div align="center">
 
 ### Overlay des personnages, posé sur Dofus
-<img src="screenshot-overlay.png" alt="Multixi - overlay multicompte avec la liste des personnages" width="80%" />
+<img src="0fb0d7c1-ecd8-4336-a1ab-3a01cbf74da0.png" alt="Multixi - overlay multicompte avec la liste des personnages" width="80%" />
 
 ### Gestion des teams en un coup d'œil
-<img src="screenshot-teams.png" alt="Multixi - gestion des teams multicompte sur Dofus" width="80%" />
+<img src="108fcb96-6e5d-4015-bff1-ff42595ba3da.png" alt="Multixi - gestion des teams multicompte sur Dofus" width="80%" />
 
 ### Suivi Metamob, boss & archimonstres
-<img src="screenshot-trading.png" alt="Multixi - suivi Metamob et trading Dofus" width="80%" />
+<img src="aab82258-5595-44e1-a0e1-d5b0636325ed.png" alt="Multixi - suivi Metamob et trading Dofus" width="80%" />
 
 </div>
 
